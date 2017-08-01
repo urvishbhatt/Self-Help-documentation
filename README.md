@@ -1,2 +1,2 @@
-# Capstone_Stage1
+# SelfHelper app
 Last project for udacity nano degree project 
